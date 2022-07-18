@@ -7,14 +7,14 @@ class MyOnbordingData extends StatelessWidget {
     new OnbordingData(
       titleText: Text("What internet knows about you?"),
       descText: Text("see your private data"),
-      image: AssetImage("assets/image/logo"),
+      image: AssetImage("assets/image/logo.jpg"),
       // imageIcon: Icons.public,
       // imagecolor:new Color(0xFF59007a),
     ),
     new OnbordingData(
       titleText: Text("How they gather your data, for ads"),
       descText: Text("You can stop them."),
-      image: AssetImage("assets/image/logo"),
+      image: AssetImage("assets/image/logo.jpg"),
       // image: Icon(Icons.all_inclusive),
       //  imagecolor:new Color(0xFF59007a),
     ),
@@ -22,7 +22,7 @@ class MyOnbordingData extends StatelessWidget {
       titleText: Text("Prevent them from keeping your data"),
       descText:
           Text("You can delete the data and can turn off personalization"),
-      image: AssetImage("assets/image/logo"),
+      image: AssetImage("assets/image/logo.jpg"),
       // imageIcon: Icons.close,
       //  imagecolor:new Color(0xFF59007a),
     ),
